@@ -1,22 +1,21 @@
-# Game Review for (GAME TITLE)
+# Game Review for Call of Duty: World at War
 
 ## Details
 
-### Game Title
+### Call of Duty: World at War
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+https://store.steampowered.com/app/10090/Call_of_Duty_World_at_War/
+https://www.amazon.com/Call-Duty-World-Platinum-Hits-Xbox/dp/B001AWIP68
+https://marketplace.xbox.com/en-US/Product/Call-of-Duty-WaW/66acd000-77fe-1000-9115-d8024156081c
 
 ### Rating
-
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+I rate this game a 8.5/10
 
 ## Summary
 
-This game is about... this should be at least 3-4 paragraphs summarizing the
-game play mechanics of the game. You should be answering the who, what,
-when, where, why, and how of the game itself.
+The campaign in this game takes the player through more events of World War II. It is the first in
+the Call of Duty franchise that brings in the "zombies" mode, which is the main reason why this will
+always be one of my favorite video games in the franchise.
 
 ## Final Thoughts
 
