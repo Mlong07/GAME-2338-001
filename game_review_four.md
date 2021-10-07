@@ -15,7 +15,8 @@ I rate this game a 8.5/10
 
 The campaign in this game takes the player through more events of World War II. It is the first in
 the Call of Duty franchise that brings in the "zombies" mode, which is the main reason why this will
-always be one of my favorite video games in the franchise.
+always be one of my favorite video games in the franchise. The cinematic cutscenes in the game
+add to the suspense between the action, the story itself talks about the 
 
 ## Final Thoughts
 
@@ -27,4 +28,4 @@ paragraph.
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+https://en.wikipedia.org/wiki/Call_of_Duty:_World_at_War
